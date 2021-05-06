@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "create-react-class": "^15.5.3",
-    "highcharts": "^5.0.15",
+    "highcharts": "^9.0.0",
     "moment": "^2.18.1",
     "react": "^15.5.4",
     "react-datepicker": "^0.46.0",
